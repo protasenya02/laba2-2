@@ -20,4 +20,6 @@
 >4.	Предусмотреть возможность добавлять, удалять и корректировать записи из списка, а также просматривать весь список.
 
 ## **Код программы**
-> [Код программы]()
+> [Типы данных](https://github.com/protasenya02/laba2-2/blob/master/Procedures.pas)
+
+> [Подпрограммы](https://github.com/protasenya02/laba2-2/blob/master/Procedures.pas)
