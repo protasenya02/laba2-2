@@ -4,7 +4,7 @@ unit Types;
 interface
 uses   System.SysUtils;
 
-  //информационное поле
+  //РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРµ РїРѕР»Рµ
 type
 
   Twork = record
@@ -17,16 +17,16 @@ type
 
   end;
 
-  TAddressWorkList= ^TworkList;  //адрес
+  TAddressWorkList= ^TworkList;  //Г Г¤Г°ГҐГ±
 
-  TWorkList= record     // элемент списка
+  TWorkList= record     // ГЅГ«ГҐГ¬ГҐГ­ГІ Г±ГЇГЁГ±ГЄГ 
        Work: Twork;
        Address: TAddressWorkList;
 
   end;
 
 
-  TFile = file of Twork;    // типизированный файл
+  TFile = file of Twork;    // ГІГЁГЇГЁГ§ГЁГ°Г®ГўГ Г­Г­Г»Г© ГґГ Г©Г«
 
 
 var
