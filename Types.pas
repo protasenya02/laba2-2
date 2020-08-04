@@ -17,16 +17,16 @@ type
 
   end;
 
-  TAddressWorkList= ^TworkList;  //àäðåñ
+  TAddressWorkList= ^TworkList;  //адрес
 
-  TWorkList= record     // ýëåìåíò ñïèñêà
+  TWorkList= record     // элемент спискаа
        Work: Twork;
        Address: TAddressWorkList;
 
   end;
 
 
-  TFile = file of Twork;    // òèïèçèðîâàííûé ôàéë
+  TFile = file of Twork;    // типизированный файл
 
 
 var
