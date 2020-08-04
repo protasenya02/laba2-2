@@ -20,6 +20,8 @@
 >4.	Предусмотреть возможность добавлять, удалять и корректировать записи из списка, а также просматривать весь список.
 
 ## **Код программы**
-> [Типы данных](https://github.com/protasenya02/laba2-2/blob/master/Types.pas)
+> [Модуль с типами данных](https://github.com/protasenya02/laba2-2/blob/master/Types.pas)
 
-> [Подпрограммы](https://github.com/protasenya02/laba2-2/blob/master/Procedures.pas)
+> [Модуль подпрограмм и функций](https://github.com/protasenya02/laba2-2/blob/master/Procedures.pas)
+
+> [Основной модуль ](https://github.com/protasenya02/laba2-2/blob/master/laba2.dpr)
