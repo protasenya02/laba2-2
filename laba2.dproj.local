@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.150,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\MainFunctions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\laba4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\course\UnitMainForm.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\course\UnitMainForm.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Types.pas</Transaction>
+    <Transaction>2020.08.04 16:00:28.867,\\Mac\Home\Desktop\Types.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\Types.pas</Transaction>
+    <Transaction>2020.08.04 16:00:36.617,\\Mac\Home\Desktop\laba4.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\лаба 4\laba4.dproj</Transaction>
+    <Transaction>2020.08.04 16:01:12.176,\\Mac\Home\Desktop\laba2.dproj=\\Mac\Home\Desktop\laba4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
